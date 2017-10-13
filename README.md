@@ -2,6 +2,9 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.4.6.
 
+This is my personal exercise of [Your First Angular Application](https://github.com/jdjuan/your-first-angular-application) by [Juan Herrera](https://github.com/jdjuan)
+
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
